@@ -64,9 +64,6 @@ POST /api/enquiry
 
 <!-- Add your production URL here -->
 
-## Assumptions
-
-None
 
 ## Screenshots
 
@@ -78,4 +75,4 @@ None
 
 ## GitHub
 
-<!-- Add URL here -->
+[https://github.com/ashwin5638/Travel-unbounded](https://github.com/ashwin5638/Travel-unbounded)
